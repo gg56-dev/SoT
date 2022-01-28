@@ -1,0 +1,73 @@
+[
+  
+    {
+      "attributes": [
+          {
+              "trait_type": "Country",
+              "value": "South Korea"
+          },
+          {
+              "trait_type": "City",
+              "value": "Seoul"
+          },
+          {
+              "trait_type": "Grade",
+              "value": "S"
+          },
+          {
+            "trait_type": "UUID",
+            "value": "BFG00001"
+          }
+      ],
+      "description": "S grade SoT with 100m² HideOut space & 1km² land, located at Latitude = 37.506716, Longitude = 127.055012",
+      "image": "https://www.sympatec.com/fileadmin/_processed_/d/5/csm_building_0f0a196abd.jpg",
+      "name": "SoT KOR00001 - GG56 Head Office"
+    },
+    {
+      "attributes": [
+          {
+              "trait_type": "Country",
+              "value": "South Korea"
+          },
+          {
+              "trait_type": "City",
+              "value": "Seoul"
+          },
+          {
+              "trait_type": "Grade",
+              "value": "S"
+          },
+          {
+            "trait_type": "UUID",
+            "value": "HFY00001"
+          }
+      ],
+      "description": "S grade SoT with 100m² HideOut space & 1km² land, located at Latitude = 37.506716, Longitude = 127.055012",
+      "image": "https://www.sympatec.com/fileadmin/_processed_/d/5/csm_building_0f0a196abd.jpg",
+      "name": "SoT KOR00001 - GG56 Head Office"
+    },
+    {
+      "attributes": [
+          {
+              "trait_type": "Country",
+              "value": "South Korea"
+          },
+          {
+              "trait_type": "City",
+              "value": "Seoul"
+          },
+          {
+              "trait_type": "Grade",
+              "value": "S"
+          },
+          {
+            "trait_type": "UUID",
+            "value": "UYD00001"
+          }
+      ],
+      "description": "S grade SoT with 100m² HideOut space & 1km² land, located at Latitude = 37.506716, Longitude = 127.055012",
+      "image": "https://www.sympatec.com/fileadmin/_processed_/d/5/csm_building_0f0a196abd.jpg",
+      "name": "SoT KOR00001 - GG56 Head Office"
+    }
+  
+  ]
